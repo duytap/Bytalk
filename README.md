@@ -8,3 +8,7 @@ It runs directly in the terminal - on both Linux and Termux - allowing users to 
 Messages are protected with end-to-end encryption, ensuring that only the sender and receiver can read them.
 
 By Talk represents the idea of bypassing surveillance and bringing communication back to its roots - fast, direct, and private.
+
+How to use:
+    host:   python bytalk.py host [port]
+    client: python bytalk.py connect <ip> [port]
